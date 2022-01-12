@@ -1,4 +1,5 @@
 # Install Tools
+# Note()fast tipe then use this tool ( rm -rf Bcst ) 
 $ pkg update
 
 $ pkg upgrade
